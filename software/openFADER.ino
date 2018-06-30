@@ -1,7 +1,5 @@
 /*
-Direct connect, no shift register
-TODO
-
+https://github.com/LeafCutterLabs/openFADER
 */
 
 #include "MIDIUSB.h"
