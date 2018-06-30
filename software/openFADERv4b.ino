@@ -14,7 +14,7 @@ const uint8_t MIDICC = 0x0B;
 const byte faderPIN[] = {A10, A0, A3, A2, A1, A6, A7, A8}; //fader pins
 
 /*
-gaderPIN arrangement for the slim/no-led version, you can also comment out all the led stuff if you are using the slim version
+faderPIN arrangement for the slim/no-led version, you can also comment out all the led stuff if you are using the slim version
 const byte faderPIN[] = {A6, A7, A3, A2, A1, A0, A8, A9}; //fader pins
 */
 
